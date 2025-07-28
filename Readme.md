@@ -9,7 +9,7 @@
 
 | 🧠 Question Name | 🔗 C++ Solution                | 🔗 Java Solution                  |🔗 Python Solution | 🌐 Question Link                                      | 🧩 Pattern Used        |
 | ---------------- | ------------------------------ | --------------------------------- | ----------------------------------------------------- | ---------------------- |
-| Two Sum          | [C++](./C++/Arrays/TwoSum.cpp) | [Java](./JAVA/Arrays/TwoSum.java) |[Python](./Python/Two_sum.py) | [LeetCode #1](https://leetcode.com/problems/two-sum/) | Hashing / Two Pointers |
+| Two Sum          | [C++](./C++/Arrays/TwoSum.cpp) | [Java](./JAVA/Arrays/TwoSum.java) | [LeetCode #1](https://leetcode.com/problems/two-sum/) | Hashing / Two Pointers |
 
 ## Stack
 
