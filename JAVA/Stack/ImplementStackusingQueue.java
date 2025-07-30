@@ -2,6 +2,7 @@
 // This implementation uses a single queue to simulate stack behavior.
 // Time Complexity: O(n) for push, O(1) for pop and top
 // Space Complexity: O(n) where n is the number of elements in the stack
+//Optimized Approach using a single queue
 class MyStack {
     Queue<Integer> queue;
     public MyStack() {
