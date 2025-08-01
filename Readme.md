@@ -1,5 +1,6 @@
 ## 📑 Main Table of Contents
 
+- [Daily Leetcode](#daily-leetcode)
 - [Array Questions](#arrays)
 - [Stack Questions](#stack)
 
@@ -35,10 +36,12 @@
 
 ## Stack
 
-| 🧠 Question Name                     | 🔗 C++ Solution                                     | 🔗 Java Solution                                       | 🔗 Python Solution                                      | 🌐 Question Link                                                                 | 🧩Pattern Used |
-| ---------------------------------- | -------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------- | -------------------------------------------------------------------------------- | --------------- |
-| Valid Parentheses                  | [C++](./C++/Stack/ValidParentheses.cpp)            | [Java](./JAVA/Stack/ValidParentheses.java)             | [Python](./Python/Stack/ValidParentheses.py)             | [LeetCode #20](https://leetcode.com/problems/valid-parentheses/)                | Stack            |
-| Design a Stack With Increment Operation | [C++](./C++/Stack/StackwithIncreament.cpp)         | [Java](./JAVA/Stack/StackwithIncreament.java)           | [Python](./Python/Stack/StackwithIncreament.py)           | [LeetCode #1381](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | Stack / Design   |
+| 🧠 Question Name                     | 🔗 C++ Solution                                     | 🔗 Java Solution                                       | 🔗 Python Solution                                      | 🌐 Question Link                                                                 | 🧩Pattern Used       |
+| ---------------------------------- | -------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------- | -------------------------------------------------------------------------------- | --------------------- |
+| Valid Parentheses                  | [C++](./C++/Stack/ValidParentheses.cpp)            | [Java](./JAVA/Stack/ValidParentheses.java)             | [Python](./Python/Stack/ValidParentheses.py)             | [LeetCode #20](https://leetcode.com/problems/valid-parentheses/)                | Stack                  |
+| Design a Stack With Increment Operation | [C++](./C++/Stack/StackwithIncreament.cpp)         | [Java](./JAVA/Stack/StackwithIncreament.java)           | [Python](./Python/Stack/StackwithIncreament.py)           | [LeetCode #1381](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | Stack / Design         |
+| Implement Stack using Queues      | [C++](./C++/Stack/ImplementStackusingQueue.cpp)             | [Java](./JAVA/Stack/ImplementStackusingQueue.java)              | [Python](./Python/Stack/ImplementStackusingQueue.py)              | [LeetCode #225](https://leetcode.com/problems/implement-stack-using-queues/)    | Stack / Queue Simulation |
+
 
 
 
