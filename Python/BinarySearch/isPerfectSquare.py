@@ -8,7 +8,7 @@
 #         root = math.isqrt(num)
 #         return root * root == num
     
-# Time-Complexity-O(nlogn)
+# Time-Complexity-O(logn)
 # Space Complexity-O(1)
 class Solution:
     def isPerfectSquare(self, num: int) -> bool:
