@@ -8,9 +8,12 @@
 
 ## Daily Leetcode
 
-| 🧠 Problem Name       | 🌐 Problem Link                                                                 | 🔗 C++ Solution                         | 🔗 Java Solution                         | 🔗 Python Solution                         | 📅 Date       | 🧩 Approach / Notes            |
-|----------------------|----------------------------------------------------------------------------------|----------------------------------------|------------------------------------------|--------------------------------------------|--------------|-------------------------------|
-| Pascal's Triangle    | [LeetCode #118](https://leetcode.com/problems/pascals-triangle/)                | [C++](./DailyLeetcode/1Aug/PascalTriangle.cpp)       | [Java](./DailyLeetcode/1Aug/PascalTriangle.java)       | [Python](./DailyLeetcode/1Aug/PascalTriangle.py)         | 2025-08-01   | Binomial Coefficients (nCr)   |
+| 🧠 Problem Name             | 🌐 Problem Link                                                                 | 🔗 C++ Solution                                       | 🔗 Java Solution                                        | 🔗 Python Solution                                        | 📅 Date       | 🧩 Approach / Notes                  |
+|----------------------------|----------------------------------------------------------------------------------|------------------------------------------------------|--------------------------------------------------------|------------------------------------------------------------|--------------|-------------------------------------|
+| Pascal's Triangle          | [LeetCode #118](https://leetcode.com/problems/pascals-triangle/)                | [C++](./DailyLeetcode/1Aug/PascalTriangle.cpp)       | [Java](./DailyLeetcode/1Aug/PascalTriangle.java)       | [Python](./DailyLeetcode/1Aug/PascalTriangle.py)           | 2025-08-01   | Binomial Coefficients (nCr)         |
+| Rearranging Fruits         | [LeetCode #2449](https://leetcode.com/problems/rearranging-fruits/)             | [C++](./DailyLeetcode/2Aug/RearrangingFruits.cpp)    | [Java](./DailyLeetcode/2Aug/RearrangingFruits.java)    | [Python](./DailyLeetcode/2Aug/RearrangingFruits.py)        | 2025-08-02   | Greedy + Multisets/Counting         |
+| Maximum Fruits Harvested   | [LeetCode #2106](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/) | [C++](./DailyLeetcode/3Aug/MaximumFruitsHarvested.cpp) | [Java](./DailyLeetcode/3Aug/MaximumFruitsHarvested.java) | [Python](./DailyLeetcode/3Aug/MaximumFruitsHarvested.py)   | 2025-08-03   | Sliding Window + Prefix Sum         |
+
 
 
 
