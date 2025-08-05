@@ -14,6 +14,8 @@
 | Rearranging Fruits         | [LeetCode #2449](https://leetcode.com/problems/rearranging-fruits/)             | [C++](./DailyLeetcode/2Aug/RearrangingFruits.cpp)    | [Java](./DailyLeetcode/2Aug/RearrangingFruits.java)    | [Python](./DailyLeetcode/2Aug/RearrangingFruits.py)        | 2025-08-02   | Greedy + Multisets/Counting         |
 | Maximum Fruits Harvested   | [LeetCode #2106](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/) | [C++](./DailyLeetcode/3Aug/MaximumFruitsHarvested.cpp) | [Java](./DailyLeetcode/3Aug/MaximumFruitsHarvested.java) | [Python](./DailyLeetcode/3Aug/MaximumFruitsHarvested.py)   | 2025-08-03   | Sliding Window + Prefix Sum         |
 | Fruit Into Baskets         | [LeetCode #904](https://leetcode.com/problems/fruit-into-baskets/)              | [C++](./DailyLeetcode/4Aug/FruitIntoBaskets.cpp)     | [Java](./DailyLeetcode/4Aug/FruitIntoBaskets.java)     | [Python](./DailyLeetcode/4Aug/FruitIntoBaskets.py)         | 2025-08-04   | Sliding Window, Max Subarray with 2 Types |
+| Fruit Into Baskets 2       | [LeetCode #3477](https://leetcode.com/problems/fruits-into-baskets-ii/description/)  | [C++](./DailyLeetcode/5Aug/FruitIntoBaskets2.cpp)    | [Java](./DailyLeetcode/5Aug/FruitIntoBaskets2.java)    | [Python](./DailyLeetcode/5Aug/FruitIntoBaskets2.py)        | 2025-08-05   | Simulation        |
+
 
 
 
@@ -36,7 +38,7 @@
 | Second Largest (GFG)                  | [C++](./C++/Arrays/SecondLargest.cpp)                | [Java](./JAVA/Arrays/SecondLargest.java)                 | [Python](./Python/Arrays/SecondLargest.py)                 | [GFG Link](https://www.geeksforgeeks.org/find-second-largest-element-array/)     | Traversal                   |
 | Reverse Array (GFG)                   | [C++](./C++/Arrays/ReverseArray.cpp)                 | [Java](./JAVA/Arrays/ReverseArray.java)                  | [Python](./Python/Arrays/ReverseArray.py)                  | [GFG Link](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) | Two Pointers / Swapping     |
 | Plus One                              | [C++](./C++/Arrays/PlusOne.cpp)                      | [Java](./JAVA/Arrays/PlusOne.java)                       | [Python](./Python/Arrays/PlusOne.py)                       | [LeetCode #66](https://leetcode.com/problems/plus-one/)                         | Carry Propagation / Simple  |
-| Rotate Array by D (GFG)               | [C++](./C++/Arrays/RotateArrayByD.cpp)               | [Java](./JAVA/Arrays/RotateArrayByD.java)                | [Python](./Python/Arrays/RotateArrayByD.py)                | [GFG Link](https://www.geeksforgeeks.org/rotate-array/)                          | Reversal Algo / Modulo      |
+| Rotate Array by D (GFG)               | [C++](./C++/Arrays/RotateArrayByD.cpp)               | [Java](./JAVA/Arrays/RotateArrayByD.java)                | [Python](./Python/Arrays/RotateArrayByD.py)                | [GFG Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/rotate-array-by-n-elements-1587115621)                          | Reversal Algo / Modulo      |
 
 
 
