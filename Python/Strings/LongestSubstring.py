@@ -15,4 +15,4 @@ class Solution:
             longest=max(longest,window)
             sett.add(s[right])
         return longest
-        
+    
