@@ -8,7 +8,7 @@
 
 ## Daily Leetcode
 
-Here’s your updated table with **Soup Servings** added at the end in the same format:
+
 
 | 🧠 Problem Name                             | 🌐 Problem Link                                                                                          | 🔗 C++ Solution                                            | 🔗 Java Solution                                             | 🔗 Python Solution                                           | 📅 Date    | 🧩 Approach / Notes                       |
 | ------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ----------------------------------------- |
@@ -20,6 +20,7 @@ Here’s your updated table with **Soup Servings** added at the end in the same 
 | Fruit Into Baskets 3                        | [LeetCode #3479](https://leetcode.com/problems/fruits-into-baskets-iii/)                                 | [C++](./DailyLeetcode/6Aug/FruitIntoBaskets3.cpp)          | [Java](./DailyLeetcode/6Aug/FruitIntoBaskets3.java)          | [Python](./DailyLeetcode/6Aug/FruitIntoBaskets3.py)          | 2025-08-06 | Segment Tree                              |
 | Find the Maximum Number of Fruits Collected | [LeetCode #3363](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/description/) | [C++](./DailyLeetcode/7Aug/MaxNumberOfFruitsCollected.cpp) | [Java](./DailyLeetcode/7Aug/MaxNumberOfFruitsCollected.java) | [Python](./DailyLeetcode/7Aug/MaxNumberOfFruitsCollected.py) | 2025-08-07 | DP on Grid                                |
 | Soup Servings                               | [LeetCode #808](https://leetcode.com/problems/soup-servings/)                                            | [C++](./DailyLeetcode/8Aug/SoupServings.cpp)               | [Java](./DailyLeetcode/8Aug/SoupServings.java)               | [Python](./DailyLeetcode/8Aug/SoupServings.py)               | 2025-08-08 | DP + Memoization, Probability             |
+| Power of Two                                | [LeetCode #231](https://leetcode.com/problems/power-of-two/)                                             | [C++](./DailyLeetcode/9Aug/PowerOfTwo.cpp)                 | [Java](./DailyLeetcode/9Aug/PowerOfTwo.java)                 | [Python](./DailyLeetcode/9Aug/PowerOfTwo.py)                 | 2025-08-09 | Bit Manipulation, O(1) Check              |
 
 
 
