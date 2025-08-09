@@ -1,6 +1,6 @@
 # Leetcode-46
-# Time-Complexity-O(n)
-# Space-Complexity-O(n)
+# Time-Complexity-O(n!*n^2)
+# Space-Complexity-O(n!*n)
 
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
