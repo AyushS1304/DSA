@@ -9,7 +9,6 @@
 ## Daily Leetcode
 
 
-
 | 🧠 Problem Name                             | 🌐 Problem Link                                                                                          | 🔗 C++ Solution                                            | 🔗 Java Solution                                             | 🔗 Python Solution                                           | 📅 Date    | 🧩 Approach / Notes                       |
 | ------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ----------------------------------------- |
 | Pascal's Triangle                           | [LeetCode #118](https://leetcode.com/problems/pascals-triangle/)                                         | [C++](./DailyLeetcode/1Aug/PascalTriangle.cpp)             | [Java](./DailyLeetcode/1Aug/PascalTriangle.java)             | [Python](./DailyLeetcode/1Aug/PascalTriangle.py)             | 2025-08-01 | Binomial Coefficients (nCr)               |
@@ -21,6 +20,8 @@
 | Find the Maximum Number of Fruits Collected | [LeetCode #3363](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/description/) | [C++](./DailyLeetcode/7Aug/MaxNumberOfFruitsCollected.cpp) | [Java](./DailyLeetcode/7Aug/MaxNumberOfFruitsCollected.java) | [Python](./DailyLeetcode/7Aug/MaxNumberOfFruitsCollected.py) | 2025-08-07 | DP on Grid                                |
 | Soup Servings                               | [LeetCode #808](https://leetcode.com/problems/soup-servings/)                                            | [C++](./DailyLeetcode/8Aug/SoupServings.cpp)               | [Java](./DailyLeetcode/8Aug/SoupServings.java)               | [Python](./DailyLeetcode/8Aug/SoupServings.py)               | 2025-08-08 | DP + Memoization, Probability             |
 | Power of Two                                | [LeetCode #231](https://leetcode.com/problems/power-of-two/)                                             | [C++](./DailyLeetcode/9Aug/PowerOfTwo.cpp)                 | [Java](./DailyLeetcode/9Aug/PowerOfTwo.java)                 | [Python](./DailyLeetcode/9Aug/PowerOfTwo.py)                 | 2025-08-09 | Bit Manipulation, O(1) Check              |
+| Reordered Power of 2                        | [LeetCode #869](https://leetcode.com/problems/reordered-power-of-2/)                                     | [C++](./DailyLeetcode/10Aug/ReorderedPowerOf2.cpp)         | [Java](./DailyLeetcode/10Aug/ReorderedPowerOf2.java)         | [Python](./DailyLeetcode/10Aug/ReorderedPowerOf2.py)         | 2025-08-10 | Digit Frequency Matching                  |
+
 
 
 
